@@ -6,3 +6,6 @@ This time let's share some examples of how to create tables and make DML operati
 //
 As usual, this source code could be improve and use as you want. I must remind you that all codes found in this repository has the purpose to be didatic. For professional use, my adivise is: Review carefully before use.
 I hope to help you. Good practise
+**********
+updated: (dbfullexercise_DML_delete)
+This code I will use a different approach from the functions DML (insert and update) before.  This time lets use transaction controls. Means that the command "delete" will just be commited affer explicitly the DataBase receive the command "commit"
