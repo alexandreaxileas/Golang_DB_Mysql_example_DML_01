@@ -1,5 +1,5 @@
 # Overview
-This topic has a simple but completed example of DML  operations using Data Base Mysql.
+This topic has a simple but completed example of DML operations using Data Base Mysql.
 //
 Hi everyone !!
 This time let's share some examples of how to create tables and make DML operations using Golang and MySql. My intention is to show how to connect to a database and perform some commands "insert", "update" and "delete".
@@ -9,6 +9,10 @@ I hope to help you. Good practise
 **********
 updated: (dbfullexercise_DML_delete)
 This code I will use a different approach from the functions DML (insert and update) before.  This time lets use transaction controls. Means that the command "delete" will just be commited affer explicitly the DataBase receive the command "commit"
+**********
+# Features
+* Basic example for beginners to demonstrade how to create tables, make updates, inserts and deletes.Also queries to select data into struct in order to print the result
+* Plus: Randon function
 **********
 # Feedback
 If you have any feedback, suggestions, or questions, please feel free to open an issue in the repository. I will appreciate your input and strive to make this repository a valuable resource for the Go community.
