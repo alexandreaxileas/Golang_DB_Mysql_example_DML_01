@@ -9,3 +9,6 @@ I hope to help you. Good practise
 **********
 updated: (dbfullexercise_DML_delete)
 This code I will use a different approach from the functions DML (insert and update) before.  This time lets use transaction controls. Means that the command "delete" will just be commited affer explicitly the DataBase receive the command "commit"
+**********
+# Feedback
+If you have any feedback, suggestions, or questions, please feel free to open an issue in the repository. I will appreciate your input and strive to make this repository a valuable resource for the Go community.
